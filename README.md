@@ -35,7 +35,7 @@ The average of the three base values is 7% below the share price. P / E comps an
 | Cover | Contents, conventions and model checks |
 | Dashboard | One-page summary with the charts above |
 | Outputs | Scenario switch, DCF summary, football field, scenario tables and sensitivities |
-| Inputs | Forecast drivers by scenario, financing and tax, WACC build |
+| Inputs | Forecast drivers by scenario, financing and tax, WACC and terminal growth |
 | Model | Revenue and cost schedules, income statement, balance sheet, cash flow, working capital, PP&E, debt, DCF |
 | Comps | Trading comparables and precedent transactions |
 | Hist | Reported figures from the annual and interim reports |
